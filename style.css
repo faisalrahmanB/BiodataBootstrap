@@ -1,0 +1,17 @@
+h2{
+    text-decoration:underline
+}
+h2{
+    font-size: medium;
+    font-family: cursive;
+}
+tr{
+    font-size: medium;
+    font-family:cursive;
+}
+body{
+    background-color: rgb(255, 246, 251);
+    background-image: url(BACKGROUND/pngtree-soft-pink-pastel-ink-background-image_590627.jpg);
+    background-attachment: local;
+    background-repeat:round
+}
